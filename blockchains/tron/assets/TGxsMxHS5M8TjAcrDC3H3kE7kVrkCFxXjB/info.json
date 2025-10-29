@@ -1,0 +1,11 @@
+{
+    "name": "EDU Token Research Demo",
+    "website": "https://coretelecomeurope.com",
+    "description": "Educational token for blockchain technology research - NO MONETARY VALUE",
+    "explorer": "https://tronscan.org/#/token20/TGxsMxHS5M8TjAcrDC3H3kE7kVrkCFxXjB",
+    "type": "TRC20",
+    "symbol": "EDU-LAB",
+    "decimals": 6,
+    "status": "active",
+    "id": "TGxsMxHS5M8TjAcrDC3H3kE7kVrkCFxXjB"
+}
